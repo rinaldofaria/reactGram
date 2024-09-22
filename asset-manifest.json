@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactGram/static/css/main.7eeed5ef.css",
+    "main.js": "/reactGram/static/js/main.ce99f91b.js",
+    "index.html": "/reactGram/index.html",
+    "main.7eeed5ef.css.map": "/reactGram/static/css/main.7eeed5ef.css.map",
+    "main.ce99f91b.js.map": "/reactGram/static/js/main.ce99f91b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eeed5ef.css",
+    "static/js/main.ce99f91b.js"
+  ]
+}
